@@ -52,6 +52,7 @@
   --primary-dark-gray:#666666;
   --primay-black:#000000;
   --primay-transparent-black: rgba(0,0,0,0.7);
+  --primary-green:green;
 
 }
 body{
@@ -382,3 +383,119 @@ font-weight: 900;
 
    width: 10rem !important;
   }
+
+  .carousel .control-next.control-arrow::before {
+    border-left: 8px solid red !important;
+   
+}
+.carousel .control-prev.control-arrow::before {
+  border-right: 8px solid  red !important;
+}
+  /* contact */
+  .contacts{
+
+    background:var(--primary-dark);
+    padding:3rem 0;
+
+  }
+  .contacts h1{
+     color:var(--primary-blue);
+    
+    padding:1.3rem 0;
+    text-transform: uppercase;
+    
+  }
+  .contacts p{
+    color:var(--primary-light-gray);
+   
+   font-size: 1.2rem;
+   
+ }
+ /* INPUT */
+
+ .contacts input, .contacts textarea{
+width:100%;
+box-sizing: border-box;
+background:none;
+resize: none;
+border:0;
+border-bottom: 0.125rem solid var(--primary-dark-gray);
+border-radius: 0;
+color:var(--primary-gray);
+outline: 0 !important;
+box-shadow:none  !important;
+padding-left: 0 !important;
+margin-bottom: 1rem;
+
+ }
+ .contacts .container{
+
+  padding:4rem 0;
+ }
+
+ .contacts input:focus, .contacts textarea:focus {
+
+  background: transparent;
+  color:var(--primary-blue);
+  border-bottom: 0.125rem solid var(--primary-dark-gray);
+ }
+
+ .contacts textarea{
+   height:12.2rem !important;
+ 
+ }
+
+ .contact-btn{
+  border:1px solid var(--primary-red);
+  margin:1rem 0 0 0;
+  width: 100%;
+  background:none;
+
+ }
+ .line{
+
+  position: relative;
+  top :-0.8rem;
+  width:0;
+  height:0.125rem;
+  background:var(--primary-blue);
+  display: inline-block;
+ }
+input:focus+.line,textarea:focus+.line{
+  width:100%;
+  transition: width 0.5s ease-in-out;
+}
+input.form-control{
+margin:-0.3rem 0;
+
+}
+textarea.form-control{
+  margin:-0.3rem 0;
+  
+  }
+.error-message{
+  color:var(--primary-blue);
+  background-color: var(--primary-red);
+  text-align: left;
+}
+.success-message{
+font-weight:900 ;
+color:var(--primary-green);
+
+}
+
+ /*                          media */
+
+ @media(max-width:768px){
+.contacts{
+  overflow-x: hidden;
+}
+  .contacts .container{
+
+    padding:0 1rem;
+  }
+  .contacts p{
+
+    padding: 0 0.4rem;
+  }
+ }

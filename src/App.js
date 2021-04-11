@@ -8,7 +8,7 @@ import AboutUS from "./components/AboutUS";
 import Services from "./components/Services";
 import Experience from "./components/Experience";
 import Gallery from "./components/Gallery";
-
+import Contacts from "./components/Contact";
 function App() {
   return (
 <>
@@ -46,6 +46,7 @@ function App() {
   {/* <Services /> */}
   <Experience />
   <Gallery />
+  <Contacts />
 </>
   );
 }
