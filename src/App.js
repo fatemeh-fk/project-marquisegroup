@@ -7,7 +7,7 @@ import Header from "./components/Header";
 import AboutUS from "./components/AboutUS";
 import Services from "./components/Services";
 import Experience from "./components/Experience";
-
+import Gallery from "./components/Gallery";
 
 function App() {
   return (
@@ -43,8 +43,9 @@ function App() {
   <Navbar />
   <Header />
   <AboutUS />
-  <Services />
+  {/* <Services /> */}
   <Experience />
+  <Gallery />
 </>
   );
 }
