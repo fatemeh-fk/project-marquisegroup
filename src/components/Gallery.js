@@ -3,7 +3,7 @@ import GalleryCarousel from "./GalleryCarousel";
 
 const Gallery = () => {
     return (
-        <div className="testimonials">
+        <div id="gallery" className="testimonials">
             <h1>GALLERY</h1>
             <div className="container">
              <div className="testimonials-content">

@@ -85,7 +85,7 @@ nav ul li{ text-transform: uppercase
     height:6rem !important;
    }
 
-   .navbar-nav > li> a.active, .navbar-nav > li > a.active:focus{
+   .navbar-nav > li> a.active, .navbar-nav > li > a:focus{
 
     border-bottom: 0.1870rem solid var(--primary-blue);
     color:var(--primary-blue)!important;
@@ -131,7 +131,12 @@ nav ul li{ text-transform: uppercase
 
    } */
 
-
+   .main-info h1{
+     text-transform :uppercase;
+     /* text-decoration: underline; */
+    border-bottom: 2px solid var(--primay-black); 
+  
+     }
   
    .typed-text{
 
@@ -498,4 +503,10 @@ color:var(--primary-green);
 
     padding: 0 0.4rem;
   }
+ }
+ .footer{
+
+  /* background: var(--primay-black);
+  color:var (var(--primary-dark-gray));
+  padding:3rem; */
  }

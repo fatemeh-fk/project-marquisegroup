@@ -9,6 +9,7 @@ import Services from "./components/Services";
 import Experience from "./components/Experience";
 import Gallery from "./components/Gallery";
 import Contacts from "./components/Contact";
+import Footer from "./components/Footer";
 function App() {
   return (
 <>
@@ -47,6 +48,7 @@ function App() {
   <Experience />
   <Gallery />
   <Contacts />
+  <Footer />
 </>
   );
 }
