@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/project-marquisegroup/static/css/main.ce6eefd2.chunk.css",
-    "main.js": "/project-marquisegroup/static/js/main.2585e2fe.chunk.js",
-    "main.js.map": "/project-marquisegroup/static/js/main.2585e2fe.chunk.js.map",
-    "runtime-main.js": "/project-marquisegroup/static/js/runtime-main.ad03e77a.js",
-    "runtime-main.js.map": "/project-marquisegroup/static/js/runtime-main.ad03e77a.js.map",
+    "main.js": "/project-marquisegroup/static/js/main.71079cc6.chunk.js",
+    "main.js.map": "/project-marquisegroup/static/js/main.71079cc6.chunk.js.map",
+    "runtime-main.js": "/project-marquisegroup/static/js/runtime-main.a6c78799.js",
+    "runtime-main.js.map": "/project-marquisegroup/static/js/runtime-main.a6c78799.js.map",
     "static/css/2.31e16846.chunk.css": "/project-marquisegroup/static/css/2.31e16846.chunk.css",
-    "static/js/2.9cb81a84.chunk.js": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js",
-    "static/js/2.9cb81a84.chunk.js.map": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js.map",
-    "static/js/3.9b65f1bf.chunk.js": "/project-marquisegroup/static/js/3.9b65f1bf.chunk.js",
-    "static/js/3.9b65f1bf.chunk.js.map": "/project-marquisegroup/static/js/3.9b65f1bf.chunk.js.map",
+    "static/js/2.0e77a08e.chunk.js": "/project-marquisegroup/static/js/2.0e77a08e.chunk.js",
+    "static/js/2.0e77a08e.chunk.js.map": "/project-marquisegroup/static/js/2.0e77a08e.chunk.js.map",
+    "static/js/3.ea400b5e.chunk.js": "/project-marquisegroup/static/js/3.ea400b5e.chunk.js",
+    "static/js/3.ea400b5e.chunk.js.map": "/project-marquisegroup/static/js/3.ea400b5e.chunk.js.map",
     "index.html": "/project-marquisegroup/index.html",
     "static/css/2.31e16846.chunk.css.map": "/project-marquisegroup/static/css/2.31e16846.chunk.css.map",
     "static/css/main.ce6eefd2.chunk.css.map": "/project-marquisegroup/static/css/main.ce6eefd2.chunk.css.map",
-    "static/js/2.9cb81a84.chunk.js.LICENSE.txt": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js.LICENSE.txt",
+    "static/js/2.0e77a08e.chunk.js.LICENSE.txt": "/project-marquisegroup/static/js/2.0e77a08e.chunk.js.LICENSE.txt",
     "static/media/logo-footer.04e7b6f0.png": "/project-marquisegroup/static/media/logo-footer.04e7b6f0.png",
     "static/media/slide_1.15b1abac.jpg": "/project-marquisegroup/static/media/slide_1.15b1abac.jpg",
     "static/media/slide_1.3d020e01.png": "/project-marquisegroup/static/media/slide_1.3d020e01.png",
@@ -25,10 +25,10 @@
     "static/media/slide_7.3c308966.jpg": "/project-marquisegroup/static/media/slide_7.3c308966.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad03e77a.js",
+    "static/js/runtime-main.a6c78799.js",
     "static/css/2.31e16846.chunk.css",
-    "static/js/2.9cb81a84.chunk.js",
+    "static/js/2.0e77a08e.chunk.js",
     "static/css/main.ce6eefd2.chunk.css",
-    "static/js/main.2585e2fe.chunk.js"
+    "static/js/main.71079cc6.chunk.js"
   ]
 }
