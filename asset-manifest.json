@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/project-marquisegroup/static/css/main.ce6eefd2.chunk.css",
+    "main.js": "/project-marquisegroup/static/js/main.2585e2fe.chunk.js",
+    "main.js.map": "/project-marquisegroup/static/js/main.2585e2fe.chunk.js.map",
+    "runtime-main.js": "/project-marquisegroup/static/js/runtime-main.ad03e77a.js",
+    "runtime-main.js.map": "/project-marquisegroup/static/js/runtime-main.ad03e77a.js.map",
+    "static/css/2.31e16846.chunk.css": "/project-marquisegroup/static/css/2.31e16846.chunk.css",
+    "static/js/2.9cb81a84.chunk.js": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js",
+    "static/js/2.9cb81a84.chunk.js.map": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js.map",
+    "static/js/3.9b65f1bf.chunk.js": "/project-marquisegroup/static/js/3.9b65f1bf.chunk.js",
+    "static/js/3.9b65f1bf.chunk.js.map": "/project-marquisegroup/static/js/3.9b65f1bf.chunk.js.map",
+    "index.html": "/project-marquisegroup/index.html",
+    "static/css/2.31e16846.chunk.css.map": "/project-marquisegroup/static/css/2.31e16846.chunk.css.map",
+    "static/css/main.ce6eefd2.chunk.css.map": "/project-marquisegroup/static/css/main.ce6eefd2.chunk.css.map",
+    "static/js/2.9cb81a84.chunk.js.LICENSE.txt": "/project-marquisegroup/static/js/2.9cb81a84.chunk.js.LICENSE.txt",
+    "static/media/logo-footer.04e7b6f0.png": "/project-marquisegroup/static/media/logo-footer.04e7b6f0.png",
+    "static/media/slide_1.15b1abac.jpg": "/project-marquisegroup/static/media/slide_1.15b1abac.jpg",
+    "static/media/slide_1.3d020e01.png": "/project-marquisegroup/static/media/slide_1.3d020e01.png",
+    "static/media/App.css": "/project-marquisegroup/static/media/slide_2.16636a66.jpg",
+    "static/media/slide_3.ae1cb945.jpg": "/project-marquisegroup/static/media/slide_3.ae1cb945.jpg",
+    "static/media/slide_4.e71795a3.jpg": "/project-marquisegroup/static/media/slide_4.e71795a3.jpg",
+    "static/media/slide_5.8e99ff48.jpg": "/project-marquisegroup/static/media/slide_5.8e99ff48.jpg",
+    "static/media/slide_6.b303809b.jpg": "/project-marquisegroup/static/media/slide_6.b303809b.jpg",
+    "static/media/slide_7.3c308966.jpg": "/project-marquisegroup/static/media/slide_7.3c308966.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad03e77a.js",
+    "static/css/2.31e16846.chunk.css",
+    "static/js/2.9cb81a84.chunk.js",
+    "static/css/main.ce6eefd2.chunk.css",
+    "static/js/main.2585e2fe.chunk.js"
+  ]
+}
