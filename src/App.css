@@ -512,9 +512,13 @@ color:var(--primary-green);
     padding: 0 0.4rem;
   }
  }
+ .contact-btn{
+color:var(--primary-white);
+ }
+  /*
  .footer{
 
-  /* background: var(--primay-black);
+  background: var(--primay-black);
   color:var (var(--primary-dark-gray));
-  padding:3rem; */
- }
+  padding:3rem; 
+ }*/
