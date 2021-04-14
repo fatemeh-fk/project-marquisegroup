@@ -4,7 +4,8 @@ import GalleryCarousel from "./GalleryCarousel";
 const Gallery = () => {
     return (
         <div id="gallery" className="testimonials">
-            <h1>GALLERY</h1>
+            <h2>GALLERY</h2>
+            <p>Follow us on <a className="ginstagram"target="-blank" href="https://instagram.com/marquisegroup?igshid=1n31zf1anclxl">instagram</a> </p>
             <div className="container">
              <div className="testimonials-content">
 

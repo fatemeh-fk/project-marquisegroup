@@ -10,8 +10,8 @@ const Contact = () => {
   
 
    
-  const serviceID="service_ID";
-  const templateID="template_ID";
+  const serviceID="service_ID1";
+  const templateID="template_ID1";
   const userID="user_odCHTPQw7UXhl6yne58Tw"; 
 
   const sendEmail=(e)=> {
@@ -55,7 +55,7 @@ const Contact = () => {
     return (
         <div id="contact" className="contacts">
             <div className="text-center">
-                <h1>CONTACT US</h1>
+                <h2>CONTACT US</h2>
                 <p>Please fill yout the form and We'll contact you as soon as possible.</p>
                 <span class="success-messag">{successMessage}</span>
             </div>

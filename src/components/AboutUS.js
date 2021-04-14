@@ -9,7 +9,7 @@ const AboutUS = () => {
                   <div className="photo-wrap mb-5"><img className="profile-img" src={Builder} alt="marquise"></img></div>
              </div>
               <div className="col-lg-6 col-xm-12 mt-3">
-                  <h1 className="about-heading">About Marquise</h1>
+                  <h2 className="about-heading">About Marquise</h2>
                             <p>
                               We are experienced Toronto custom home builders with a passion for perfection, and a dedication to ensure you are in love with your quality custom home built for you and your family and generations to come. When you choose Marquise, you demand a higher-standard, custom-built home that is just as unique as you.
                             </p>

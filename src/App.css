@@ -38,8 +38,8 @@
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 /* @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Roboto:wght@100&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Roboto:wght@100&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Roboto:wght@100&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 :root{
   --primary-light-gray:#f4f4f4;
   --primary-white:#ffffff;
@@ -102,14 +102,14 @@ nav ul li{ text-transform: uppercase
      background: url(slide_2.jpg);
      background-size:cover ;
      background-position: center;
-     height:90vh;
+     height:100vh;
    }
 
    .main-info {
 
     display:flex;
     position: absolute;
-    top: 0;
+    top: 5rem;
     left: 0;
     right: 0;
     bottom: 0;
@@ -117,8 +117,10 @@ nav ul li{ text-transform: uppercase
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Cinzel Decorative', cursive;
+    /* font-family: 'Cinzel Decorative', cursive; */
+    font-family: 'Cinzel',serif;
     z-index:1;
+    color: var(--primary-dark1);
     
    }
 
@@ -133,15 +135,17 @@ nav ul li{ text-transform: uppercase
    .main-info h1{
      text-transform :uppercase;
      /* text-decoration: underline; */
-    border-bottom: 2px solid var(--primay-black); 
+    border-bottom: 2px solid var(--primary-dark1); 
+    font-weight: bold;
+    
   
      }
   
    .typed-text{
 
-    font: size 2rem;
+    font-size: 2rem;
     font-family: "Roboto condeses",sans-serif;
-    font-weight: bold;
+    /* font-weight: bold; */
    }
    .btn-contact{
      border:1PX solid var(--primary-dark1);
@@ -345,18 +349,20 @@ font-weight: 900;
   }
 
   /* GALLERY */
-
+  
   .testimonials {
 
     /* background-image: url(); */
     background-size:cover;
+    background-color: var(--primary-light-gray);
     /* background-color:var(--primary-gray); */
     text-align:center;
     padding-bottom: 0;
     width:100%;
+    margin-bottom: -2rem;
   }
 
-  .testimonials h1{ 
+  .testimonials h2{ 
   color:var(--primary-blue);
   padding:3rem 0;
   }
@@ -367,7 +373,10 @@ font-weight: 900;
  margin:0 auto 2rem auto;
  background:var(--primay-transparent-black);
   }
+  .ginstagram{
 
+    color:var(--primary-blue);
+  }
   /* .myCarousel {
 
     color:var(--primary-white);
@@ -402,7 +411,7 @@ font-weight: 900;
     padding:3rem 0;
 
   }
-  .contacts h1{
+  .contacts h2{
      color:var(--primary-blue);
     
     padding:1.3rem 0;
